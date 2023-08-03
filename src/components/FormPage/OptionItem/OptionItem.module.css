@@ -1,0 +1,18 @@
+.option {
+    margin-bottom: 10px;
+    width: 30%;
+    min-width: 280px;
+    height: 4vh;
+    display: flex;
+    align-items: center;
+}
+
+.option__input {
+    margin-left: 10%;
+    justify-self: flex-end;
+}
+
+.option__label {
+    width: 90px;
+    font-size: 18px;
+}
